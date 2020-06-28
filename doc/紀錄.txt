@@ -1,0 +1,17 @@
+csv_path
+
+# log 資料夾位置
+log_dic_path
+
+#單一log檔案位置，通常設為空值
+log_path
+
+#zip位置(log檔的位置)
+zip_path
+
+#已經讀取好的 log 資料
+log_csv_path
+
+#已經清理好的資料
+clean_data_path
+Questionnaire
