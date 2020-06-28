@@ -1,0 +1,9 @@
+analysis_data_csv_path: ../course_python/analysis_data.csv
+clean_data_csv_path: ../course_python/clean_data.csv
+log_csv_path: ../course_python/log_data.csv
+log_dic_path: ../course_python/log
+log_path: ../course_python/log.csv
+student_grade_csv_path: ../course_python/student_grade.csv
+student_pass_csv_path: ../course_python/student_pass.csv
+survey_csv_path: ../course_python/survey.csv
+zip_path: ../course_python/log.zip
